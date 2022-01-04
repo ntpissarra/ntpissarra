@@ -4,8 +4,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nacopissarra@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5521966101855)
 
-![Nathanael GitHub stats](https://github-readme-stats.vercel.app/api?username=ntpissarra&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntpissarra&layout=compact&theme=radical)](https://github.com/ntpissarra/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ntpissarra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntpissarra&layout=compact&langs_count=7&theme=radical"/>
+ </div>
 
 ## Tecnologias que utilizo
 
