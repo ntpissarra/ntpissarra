@@ -4,10 +4,8 @@ Meu nome é Nathanael Pissarra, tenho 21 anos, sou formado em Análise e Desenvo
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ntpissarra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntpissarra&layout=compact&langs_count=7&theme=radical"/>
-</div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ntpissarra&theme=radical)](https://github.com/ntpissarra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntpissarra&layout=compact&theme=radical)](https://github.com/ntpissarra/github-readme-stats)
 
 ## Conhecimentos
 
