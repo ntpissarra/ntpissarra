@@ -4,6 +4,8 @@
 
 <p align="left">Welcome to my GitHub repository! I'm Nathanael, a passionate Full Stack Developer with a background in Analysis and Systems Development. At 23 years old, I have dedicated myself to honing my skills and expanding my knowledge in the world of software development.</p>
 
+<p align="left"> I'm currently in the process of expanding my horizons and venturing into the realm of iOS development. As part of my journey, I'll be gradually transitioning my focus towards crafting exceptional experiences for Apple devices. While my roots in Full Stack Development remain strong, I'm thrilled to embrace this new challenge and bring my expertise to the world of iOS.</p>
+
 ###
 
 <h2 align="left">About me</h2>
@@ -45,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
 </div>
 
 ###
