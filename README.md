@@ -1,25 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">Welcome to my GitHub repository! I'm Nathanael, a passionate Full Stack Developer with a background in Analysis and Systems Development. At 23 years old, I have dedicated myself to honing my skills and expanding my knowledge in the world of software development.</p>
-
-<p align="left"> I'm currently in the process of expanding my horizons and venturing into the realm of iOS development. As part of my journey, I'll be gradually transitioning my focus towards crafting exceptional experiences for Apple devices. While my roots in Full Stack Development remain strong, I'm thrilled to embrace this new challenge and bring my expertise to the world of iOS.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">I embarked on my journey in the field of technology by pursuing a degree in Analysis and Systems Development. Throughout my academic journey, I gained a solid foundation in various programming languages, software engineering principles, and problem-solving techniques.<br><br>As a Full Stack Developer, I have experience working with both frontend and backend technologies. From crafting intuitive user interfaces to building robust server-side architectures, I enjoy the entire spectrum of the development process. I constantly seek opportunities to grow and learn, as the ever-evolving nature of technology fuels my curiosity.</p>
-
-###
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ntpissarra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<p align="left">I'm Nathanael, a Full Stack Developer learning Native IOS Development. Dedicated myself to honing my skills and expanding my knowledge in the world of software development.</p>
 
 <h2 align="left">I code with</h2>
 
